@@ -1,5 +1,5 @@
-<h1 align="center">Hi, Runa Vous here! 👋</h1>
-<h3 align="center">wazzup!!</h3>
+<h1 align="center">wazzup, Runa Vous here! 👋</h1>
+
 
 <p align="left"> 
   <img src="https://i.imgur.com/KeDWJ00.jpeg" alt="Aisa Profile" width="150" height="200" align="left"> 
@@ -15,7 +15,13 @@
 </p>
 ⚡ fun fact: I still haven't thought about it
 </p>
-🌱 learning: advanced algorithms, typeScript, and cloud computing
+🌱 currently learning: 
+
+<div align="center">
+  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+  
 </p>
 
 </p>
@@ -30,10 +36,6 @@
   <a href="https://twitter.com/masihfana" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
-</p>
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 
 </p>
 <div align="center">
