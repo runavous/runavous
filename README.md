@@ -1,29 +1,30 @@
 <h1 align="center">wazzup, Runa Vous here! 👋</h1>
 
-
-<p align="left"> 
-  <img src="https://i.imgur.com/KeDWJ00.jpeg" alt="Aisa Profile" width="150" height="200" align="left"> 
-</p>
-
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Rock+Salt&size=28&pause=1000&color=33CCFF&center=true&vCenter=true&width=500&lines=what+are+you+searching+for?" alt="Typing SVG" />
 </div>
 
-🌟 my temporary portfolio: [bit.ly/onlineportfolio11](bit.ly/onlineportfolio11)
+<p align="left"> 
+ <img src="https://i.imgur.com/KeDWJ00.jpeg" alt="Aisa Profile" width="150" height="200" align="left"> 
 </p>
-📫 want some tea? Hit me up: runavous@gmail.com
-</p>
-⚡ fun fact: I still haven't thought about it
-</p>
-🌱 currently learning: 
+</div>
 
-<div align="center">
+  <div style="margin-left: 20px;">
+    <p><strong>🌟 my temporary portfolio:</strong> <a href="bit.ly/onlineportfolio11">bit.ly/onlineportfolio11</a></p>
+    <p><strong>📫 want some tea? Hit me up:</strong> runavous@gmail.com</p>
+    <p><strong>⚡ fun fact:</strong> I thought python was a snake before I tried it out.</p>
+    <p><strong>🌱 currently learning</strong></p>
+  </div>
+</div>
+
+<div style="padding-left: 20px;">
   
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
   
 </p>
 
+</div>
 </p>
 <h3 align="center">leggo connect with me!</h3>
 <p align="center">
