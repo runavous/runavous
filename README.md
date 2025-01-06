@@ -11,7 +11,7 @@
   <div style="margin-left: 20px;">
     <p><strong>🌟 my temporary portfolio:</strong> <a href="bit.ly/onlineportfolio11">bit.ly/onlineportfolio11</a></p>
     <p><strong>📫 got something cool? hit me up:</strong> <a href="mailto:runavous@gmail.com">runavous@gmail.com</a></p>
-    <p><strong>⚡ fun fact:</strong> I thought python was a snake before I tried it out.</p>
+    <p><strong>⚡ fun fact: yeah I thought python was a snake before I tried it out...</strong></p>
   <p><strong>🌱 currently learning</strong></p>
 </div>
 
@@ -20,6 +20,7 @@
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
 </div>
 
+</div>
 <h3 align="center" style="margin-top: 30px;">leggo connect with me!</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/vorightus/" target="_blank">
